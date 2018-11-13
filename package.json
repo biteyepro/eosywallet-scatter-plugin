@@ -1,0 +1,16 @@
+{
+  "name": "@biteye/eosywallet-scatter-plugin",
+  "version": "1.0.0",
+  "description": "Eosy wallet scatter plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "EosyWallet",
+    "Eosy",
+    "Scatter"
+  ],
+  "author": "biteye.pro",
+  "license": "MIT"
+}
