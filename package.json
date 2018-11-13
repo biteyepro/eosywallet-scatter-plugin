@@ -12,5 +12,9 @@
     "Scatter"
   ],
   "author": "biteye.pro",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "scatterjs-core": "^2.3.8",
+    "scatterjs-plugin-eosjs2": "^1.1.6"
+  }
 }
