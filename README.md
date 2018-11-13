@@ -1,0 +1,1 @@
+# eosywallet-scatter-plugin
